@@ -1,10 +1,10 @@
 # Flight Computer Hardware Documentation
 
 ## Components
-- Teensy 4.1
-- BNO0855 IMU
-- MS5611 Barometer
-- MAX-M10S GPS
+- Teensy 4.1 (https://www.pjrc.com/teensy/IMXRT1060RM_rev3_annotations.pdf)
+- BNO0855 IMU (https://cdn-learn.adafruit.com/downloads/pdf/adafruit-9-dof-orientation-imu-fusion-breakout-bno085.pdf)
+- MS5611 Barometer (https://www.te.com/usa-en/product-MS561101BA03-50.datasheet.pdf)
+- MAX-M10S GPS (https://content.u-blox.com/sites/default/files/MAX-M10S_DataSheet_UBX-20035208.pdf)
   
 - DS3218MG Servos
 - RFM95W LoRa Radio
